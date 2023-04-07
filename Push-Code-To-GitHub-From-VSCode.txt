@@ -15,4 +15,3 @@ Commit thay đổi :
 b1 : git add.
 b2 : git commit -m "ghi chú"
 b3 : git push -u origin main(or nhánh mình muốn lưu)
-
