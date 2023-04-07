@@ -1,0 +1,18 @@
+b1 : git init
+b2 : git remote add origin link_git_respo
+b3 : git branch -M main(tên nhánh)
+b4 : git pull
+b5 : git pull origin main
+
+b6 : thêm git vào file cần code : git add --all(file name)
+
+b7 : git commit -m "ghi chú"
+
+b8 : git push -u origin main(hoặc nhánh mình muốn lưu)
+
+
+Commit thay đổi :
+b1 : git add.
+b2 : git commit -m "ghi chú"
+b3 : git push -u origin main(or nhánh mình muốn lưu)
+
