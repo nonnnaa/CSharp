@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Program
 {
-    class solve
+    class Solve
     {
         static void Main(string[] s)
         {
@@ -15,12 +15,12 @@ namespace Program
                 }
                 else
                 {
-                    Console.WriteLine("No solution ");
+                    Console.WriteLine("No solution");
                 }
             }
             else
             {
-                Console.WriteLine("The solution is : " + (- b / a));
+                Console.WriteLine("The solution is : " + (-b / a));
             }
         }
     }
