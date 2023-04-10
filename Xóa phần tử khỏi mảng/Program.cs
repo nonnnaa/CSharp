@@ -13,7 +13,7 @@ namespace Program
             }
             if(i == a.Length)
             {
-                Console.WriteLine("Not find x in array");
+                Console.WriteLine("Can not find x in array");
             }
             else
             {
