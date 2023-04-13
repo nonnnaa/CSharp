@@ -88,8 +88,8 @@ namespace SnakeGame
             int height = 30;
             int width = 50;
 
-            List<int> xSnake = new List<int> { 6, 5, 4, 3, 2, 1 };
-            List<int> ySnake = new List<int> { 1, 1, 1, 1, 1, 1 };
+            List<int> xSnake = new List<int> { 3, 2, 1 };
+            List<int> ySnake = new List<int> { 1, 1, 1 };
 
             char direction = 'R';
             bool check = false, ok = false;
