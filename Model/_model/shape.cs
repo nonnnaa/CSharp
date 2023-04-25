@@ -31,19 +31,13 @@ namespace Models
         {
             return filled;
         }
-
         public void SetFilled(bool filled)
         {
             this.filled = filled;
         }
-
-
         public override String ToString()
         {
-            return "A Shape with color of "
-                    + GetColor()
-                    + " and "
-                    + (IsFilled() ? "filled" : "not filled");
+            return "A Shape with color of " + GetColor() + " and " + (IsFilled() ? "filled" : "not filled");
         }
     }
 }
